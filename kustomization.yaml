@@ -16,4 +16,4 @@ resources:
 
 images:
 - name: wordpress:5-php7.4-apache
-  newTag: 1.0.0
+  newTag: 5.7.2-php7.4-apache
