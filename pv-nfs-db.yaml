@@ -10,4 +10,4 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   nfs:
     server: 192.168.37.105
-    path: "/mnt/IT-Academy/nfs-data/sa2-16-21/Burmeistser/db"
+    path: "/mnt/IT-Academy/nfs-data/sa2-16-21/Burmeistser/db1"
