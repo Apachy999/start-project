@@ -9,7 +9,7 @@ spec:
       port:
         number: 80
   rules:
-    - host: wp.k8s-5.sa
+    - host: wp1.k8s-5.sa
       http:
         paths:
           - path: /
